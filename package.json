@@ -1,6 +1,6 @@
 {
   "name": "jasmine-bail-fast",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bail after first test failure",
   "main": "jasmine-bail-fast.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goodeggs/jasmine-fail-fast.git"
+    "url": "https://github.com/goodeggs/jasmine-bail-fast.git"
   },
   "keywords": [
     "jasmine",
