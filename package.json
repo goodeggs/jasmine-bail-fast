@@ -1,0 +1,24 @@
+{
+  "name": "jasmine-bail-fast",
+  "version": "0.0.0",
+  "description": "Bail after first test failure",
+  "main": "jasmine-bail-fast.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node --coffee spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodeggs/jasmine-fail-fast.git"
+  },
+  "keywords": [
+    "jasmine",
+    "bail",
+    "fail",
+    "fast"
+  ],
+  "author": "Good Eggs Engineering <eng@goodeggs.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "jasmine-node": "~1.11.0"
+  }
+}
