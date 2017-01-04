@@ -3,7 +3,7 @@ jasmine-bail-fast [![build status](https://secure.travis-ci.org/goodeggs/jasmine
 
 Bail after first test failure.  
 
-Commonly called fail fast, but [Mocha uses `--bail`](http://visionmedia.github.io/mocha/#usage).  Compromise? bail fast.
+Commonly called fail fast, but [Mocha uses `--bail`](http://mochajs.org/#usage).  Compromise? bail fast.
 
 ```
 jasmine.getEnv().bailFast();
